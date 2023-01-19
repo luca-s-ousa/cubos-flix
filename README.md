@@ -1,5 +1,7 @@
 # Cubos Flix
 
+Projeto feito com HTML, CSS, e Javascript. Este projeto consiste num buscador de filmes online. O frontend da aplicação consome a API [themoviedb.org](https://www.themoviedb.org) para a exibição dos filmes e informações dos mesmos.
+
 ## Projeto do desafio de Front-end do modulo 2 do Curso de Desenvolvimento de Software da Cubos Academy
 
 > Siga as instruções para executar o projeto no seu computador
